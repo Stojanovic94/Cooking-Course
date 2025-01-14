@@ -1,0 +1,14 @@
+{
+    "vrste": [
+        { "naziv": "Mediteranska", "cena": 3000 },
+        { "naziv": "Balkanska", "cena": 4000 },
+        { "naziv": "Azijska", "cena": 5000 },
+        { "naziv": "Italijanska", "cena": 3500 },
+        { "naziv": "Meksička", "cena": 4500 },
+        { "naziv": "Francuska", "cena": 5500 },
+        { "naziv": "Japanska", "cena": 6000 },
+        { "naziv": "Indijska", "cena": 4000 },
+        { "naziv": "Kineska", "cena": 4700 },
+        { "naziv": "Libanska", "cena": 3200 }
+    ]
+}
