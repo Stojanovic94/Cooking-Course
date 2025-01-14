@@ -2,7 +2,7 @@
 
 ## Task Completion
 
-For this exercise, I have successfully created a web form that allows users to input their details for the cooking course. Below is a summary of what was accomplished:
+A web form that allows users to input their details for the cooking course. Below is a summary of what was accomplished:
 
 ### 1. **Web Form Creation**
    - A user-friendly form was developed to collect various details, including name, contact information, and preferred cooking styles or course schedules.
@@ -19,9 +19,6 @@ For this exercise, I have successfully created a web form that allows users to i
 ### 4. **User Interface and Styling**
    - The form is designed to be simple, clean, and functional. Basic styling was applied to improve usability, ensuring a smooth experience for users.
    - Responsive design was considered to ensure the form displays well on both desktop and mobile devices.
-
-### 5. **Delivery**
-   - All the necessary files (HTML, CSS, JavaScript) have been zipped and are ready for submission.
 
 ## Reflection
 
