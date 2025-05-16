@@ -3,14 +3,14 @@ body {
     background-color: #f3f4f6;
     color: #333;
 }
-
+      
 header {
     background-color: #003366;
     color: white;
     padding: 1em;
     text-align: center;
 }
-
+ 
 nav ul {
     display: flex;
     justify-content: center;
