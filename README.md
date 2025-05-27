@@ -1,8 +1,8 @@
 # Project Name: Cooking Course
 
-## What it 
+## What it is.
 
-A web form that allows users to input their details for the cooking course. Below is a summary of what was accomplished:
+A curated web form designed to allows users to input their details for the cooking course. Below is a summary of what was accomplished:
 
 ### 1. **Web Form Creation**
    - A user-friendly form was developed to collect various details, including name, contact information, and preferred cooking styles or course schedules.
