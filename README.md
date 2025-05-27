@@ -1,25 +1,43 @@
-# Cooking Course
+# Naziv Projekta: Kurs Kuvanja
 
-## Task Completion
+## O čemu se radi
 
-A web form that allows users to input their details for the cooking course. Below is a summary of what was accomplished:
+Kurirana veb forma koja omogućava korisnicima da unesu svoje podatke za upis na kurs kuvanja.
 
-### 1. **Web Form Creation**
-   - A user-friendly form was developed to collect various details, including name, contact information, and preferred cooking styles or course schedules.
-   - Each field was clearly labeled to ensure users understand the type of information required.
+---
 
-### 2. **Validation**
-   - Client-side validation was implemented using JavaScript to ensure all fields are properly completed before submission.
-   - Error messages were displayed if any mandatory fields were left empty or if the data entered did not meet the required format (e.g., invalid phone number or email address).
-   
-### 3. **Form Submission**
-   - Upon successful completion and validation of the form, the data is processed and displayed as a confirmation message on the page.
-   - The form is structured to be easily extensible if additional fields or functionality are required in the future.
+## Kako funkcioniše
 
-### 4. **User Interface and Styling**
-   - The form is designed to be simple, clean, and functional. Basic styling was applied to improve usability, ensuring a smooth experience for users.
-   - Responsive design was considered to ensure the form displays well on both desktop and mobile devices.
+### 1. **Kreiranje Veb Forme**
 
-## Reflection
+* Razvijena je forma prilagođena korisnicima, namenjena za prikupljanje različitih podataka, uključujući ime(na), kontakt informacije i željene stilove kuvanja ili termine kurseva.
+* Svako polje je jasno označeno kako bi korisnicima bilo jasno koju vrstu informacija treba da unesu.
 
-This exercise helped solidify my understanding of forms, validation, and client-side interactivity. The experience gained in completing this task will be valuable for future projects involving user input and data processing.
+### 2. **Validacija**
+
+* Validacija na strani klijenta implementirana je pomoću JavaScript-a kako bi se obezbedilo da su sva polja pravilno popunjena i verifikovana pre slanja forme.
+* Prikazuju se poruke o grešci ako su obavezna polja ostavljena prazna ili ako uneseni podaci nisu u odgovarajućem formatu (npr. neispravan broj telefona ili e-mail adresa).
+
+### 3. **Slanje Forme**
+
+* Nakon uspešnog popunjavanja i validacije, podaci se obrađuju i prikazuju putem poruke o potvrdi na stranici.
+* Struktura forme je prilagođena da se lako može proširiti ukoliko u budućnosti bude potrebno dodati nova polja ili funkcionalnosti.
+
+### 4. **Korisnički Interfejs i Stilizacija**
+
+* Forma je dizajnirana da bude jednostavna, pregledna i funkcionalna. Primenjena je osnovna stilizacija radi bolje upotrebljivosti i prijatnijeg korisničkog iskustva.
+* Responsivni dizajn je uzet u obzir kako bi forma izgledala dobro i na desktop i na mobilnim uređajima.
+
+---
+
+## Moje duboko razmišljanje
+
+Ova vežba mi je pomogla da učvrstim razumevanje veb formi, validacije i interaktivnosti na strani klijenta. Iskustvo stečeno kroz ovaj zadatak biće dragoceno za buduće projekte koji uključuju korisnički unos i obradu podataka.
+
+---
+
+**HVALA VAM. NE ZABORAVITE DA OSTAVITE LIKE, URADITE FORK I PRIJAVITE PROBLEME AKO IH UOČITE.**
+
+---
+
+### To View Readme.md in English. visit [Readme.en.md](https://github.com/Contractor-x/Cooking-Course/blob/main/Docs/english/README.en.md)
