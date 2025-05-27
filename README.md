@@ -1,6 +1,6 @@
-# Cooking Course
+# Project Name: Cooking Course
 
-## Task Completion
+## What it 
 
 A web form that allows users to input their details for the cooking course. Below is a summary of what was accomplished:
 
