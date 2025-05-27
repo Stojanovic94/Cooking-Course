@@ -16,7 +16,7 @@ A curated web form designed to allows users to input their details for the cooki
    - Error messages are displayed if any mandatory fields is left empty or if the data entered did not meet the required format (e.g., invalid phone number or email address).
    
 ### 3. **Form Submission**
-   - Upon successful completion and validation of the form, the data is processed and displayed as a confirmation message on the page.
+   - Upon successful completion and validation of the form, the data is processed and displayed via a confirmation message on the page.
    - The form is structured to be easily extensible if additional fields or functionality are required in the future.
 
 ### 4. **User Interface and Styling**
