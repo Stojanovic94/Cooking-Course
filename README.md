@@ -4,8 +4,6 @@
 
 A curated web form designed to allows users to input their details for the cooking course. 
 
-
-
 ---
 ##  How it works. 
 
@@ -14,7 +12,7 @@ A curated web form designed to allows users to input their details for the cooki
    - Each field was clearly labeled to ensure users understand the type of information required.
 
 ### 2. **Validation**
-   - Client-side validation was implemented using JavaScript to ensure all fields are properly completed before submission.
+   - Client-side validation was implemented using JavaScript to ensure all fields are properly completed and verified before submission.
    - Error messages were displayed if any mandatory fields were left empty or if the data entered did not meet the required format (e.g., invalid phone number or email address).
    
 ### 3. **Form Submission**
