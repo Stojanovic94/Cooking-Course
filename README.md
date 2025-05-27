@@ -2,10 +2,14 @@
 
 ## What it is.
 
-A curated web form designed to allows users to input their details for the cooking course. Below is a summary of what was accomplished:
+A curated web form designed to allows users to input their details for the cooking course. 
+
+##  How it works.
+
+---
 
 ### 1. **Web Form Creation**
-   - A user-friendly form was developed to collect various details, including name, contact information, and preferred cooking styles or course schedules.
+   - A user-friendly form was developed to collect various details, including name(s), contact information, and preferred cooking styles or course schedules by the user.
    - Each field was clearly labeled to ensure users understand the type of information required.
 
 ### 2. **Validation**
