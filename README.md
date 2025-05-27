@@ -1,6 +1,6 @@
 # Project Name: Cooking Course
 
-## What it is.
+## What this is.
 
 A curated web form designed to allows users to input their details for the cooking course. 
 
@@ -13,7 +13,7 @@ A curated web form designed to allows users to input their details for the cooki
 
 ### 2. **Validation**
    - Client-side validation was implemented using JavaScript to ensure all fields are properly completed and verified before submission.
-   - Error messages were displayed if any mandatory fields were left empty or if the data entered did not meet the required format (e.g., invalid phone number or email address).
+   - Error messages are displayed if any mandatory fields is left empty or if the data entered did not meet the required format (e.g., invalid phone number or email address).
    
 ### 3. **Form Submission**
    - Upon successful completion and validation of the form, the data is processed and displayed as a confirmation message on the page.
