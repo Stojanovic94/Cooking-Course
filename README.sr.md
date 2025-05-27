@@ -40,4 +40,4 @@ Ova vežba mi je pomogla da učvrstim razumevanje veb formi, validacije i intera
 
 ---
 
-### To View Readme.md in English. visit (Readme.en.md)[https://github.com/Contractor-x/Cooking-Course/blob/main/Docs/english/README.en.md]
+### To View Readme.md in English. visit [Readme.en.md](https://github.com/Contractor-x/Cooking-Course/blob/main/Docs/english/README.en.md)
